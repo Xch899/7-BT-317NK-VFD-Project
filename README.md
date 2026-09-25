@@ -1,6 +1,7 @@
 # 7‑BT‑317NK VFD 引脚定义 Pin‑out
 
 > 图片文件保存在仓库根目录
+**引脚编号从左到右 Pin number order: left‑to‑right**
 
 ## 引脚分布图
 ![第一位引脚分布](第一位引脚分布.png)
