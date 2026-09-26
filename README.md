@@ -14,7 +14,7 @@
 ![片选分区](片选分区.png)
 
 ## 引脚分布图 Pin‑out Diagram
- ![引脚分布](引脚分布.jpg)
+ ![引脚分布](引脚分布.png)
 
  ### 电气参数 Electrical Specifications
  - 灯丝供电 Filament：AC 2.4 V（交流2.4伏）
